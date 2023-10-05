@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 
+.vscode
+.prettierrc
+
 # Native
 *.orig.*
 *.jks
